@@ -5,7 +5,7 @@ WINDOW 0 8 -88 Bottom 2
 WINDOW 3 8 88 Top 2
 SYMATTR Prefix X
 SYMATTR Value ADG1421
-SYMATTR ModelFile C:\Users\the-n\Desktop\Simulazioni_workshop\ADG1421.cir
+SYMATTR ModelFile C:\Users\the-n\Desktop\Workshop\Simulazioni_workshop\ADG1421.cir
 PIN -64 -48 LEFT 8
 PINATTR PinName S1
 PINATTR SpiceOrder 1
